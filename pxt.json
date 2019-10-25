@@ -1,0 +1,20 @@
+{
+    "name": "test tcs34725",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "tcs34725": "workspace:719c082a-fec3-4081-56ee-344446a1134b"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "Adafruit_TCS34725.cpp",
+        "Adafruit_TCS34725.h",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
